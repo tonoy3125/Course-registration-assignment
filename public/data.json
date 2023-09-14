@@ -5,7 +5,7 @@
         "Title": "Introduction to C Programming",
         "Details": "Learn the fundamentals of programming using the C language.This course covers variables, data types, control structures, functions, arrays, pointers, and basic file handling.",
         "Price": "15000",
-        "Course Credit": "1hr"
+        "Course_Credit": "1hr"
     },
     {
         "ID": 2,
@@ -13,15 +13,15 @@
         "Title": "Introduction to Algorithms",
         "Details": "Explore fundamental algorithms and data structures. Learn how to analyze and design efficient algorithms for a variety of computational problems.",
         "Price": "25000",
-        "Course Credit": "2hr"
+        "Course_Credit": "2hr"
     },
     {
         "ID": 3,
         "Image": "https://i.ibb.co/sbBjyf6/Rectangle-2-4.png",
         "Title": "Introduction to C++ for DSA",
-        "Details": "Master the basics of C++ programming and learn how to implement fundamental data structures and algorithms.",
+        "Details": "Master the basics of C++ programming and learn how to implement fundamental data structures and algorithms it will be distracted by the readable content",
         "Price": "10000",
-        "Course Credit": "10hr"
+        "Course_Credit": "10hr"
     },
     {
         "ID": 4,
@@ -29,7 +29,7 @@
         "Title": "Basic Data Structures",
         "Details": "Learn the fundamental data structures used in computer science, including arrays, linked lists, stacks, queues, and basic algorithms for manipulating them.",
         "Price": "35000",
-        "Course Credit": "5hr"
+        "Course_Credit": "5hr"
     },
     {
         "ID": 5,
@@ -37,7 +37,7 @@
         "Title": "Introduction to OOP Python",
         "Details": "Learn the principles of object-oriented programming using Python. Understand classes, objects, inheritance, polymorphism, and how to apply them in practical programming projects.",
         "Price": "19000",
-        "Course Credit": "5hr"
+        "Course_Credit": "5hr"
     },
     {
         "ID": 6,
@@ -45,7 +45,7 @@
         "Title": "Software Engineering",
         "Details": "Learn the principles and best practices of software engineering. Covering requirements analysis, design, coding, testing, and maintenance of software systems.",
         "Price": "23000",
-        "Course Credit": "2hr"
+        "Course_Credit": "2hr"
     },
     {
         "ID": 7,
@@ -53,7 +53,7 @@
         "Title": "AWS, Cloud Computing",
         "Details": "Master the fundamentals of cloud computing and learn how to deploy, manage, and scale applications on Amazon Web Services (AWS) platform.",
         "Price": "35000",
-        "Course Credit": "5hr"
+        "Course_Credit": "5hr"
     },
     {
         "ID": 8,
@@ -61,7 +61,7 @@
         "Title": "Database (MySQL)",
         "Details": "Learn the fundamentals of database management using MySQL. Covering topics from designing databases to writing complex queries and database administration.",
         "Price": "19000",
-        "Course Credit": "5hr"
+        "Course_Credit": "5hr"
     },
     {
         "ID": 9,
@@ -69,6 +69,6 @@
         "Title": "Problem-Solving Part",
         "Details": "Enhance your problem-solving skills through a series of challenging exercises. Learn various techniques and strategies to approach complex problems.",
         "Price": "23000",
-        "Course Credit": "2hr"
+        "Course_Credit": "2hr"
     }
 ]

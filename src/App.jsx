@@ -1,15 +1,15 @@
 
 import './App.css'
+import Cards from './Components/Cards/Cards'
+import Header from './Components/Header/Header'
 
 function App() {
   
 
   return (
     <>
-      
-      <h1>Vite + React</h1>
-      
-      
+      <Header></Header>
+      <Cards></Cards>
     </>
   )
 }
