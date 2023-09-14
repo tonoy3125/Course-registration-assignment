@@ -3,7 +3,7 @@
         "ID": 1,
         "Image": "https://i.ibb.co/mC9kt3y/Rectangle-2-2.png",
         "Title": "Introduction to C Programming",
-        "Details": "Learn the fundamentals of programming using the C language.This course covers variables, data types, control structures, functions, arrays, pointers, and basic file handling.",
+        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "Price": "15000",
         "Course_Credit": "1hr"
     },
@@ -11,7 +11,7 @@
         "ID": 2,
         "Image": "https://i.ibb.co/Z6z66Jz/Rectangle-2-3.png",
         "Title": "Introduction to Algorithms",
-        "Details": "Explore fundamental algorithms and data structures. Learn how to analyze and design efficient algorithms for a variety of computational problems.",
+        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "Price": "25000",
         "Course_Credit": "2hr"
     },
@@ -19,7 +19,7 @@
         "ID": 3,
         "Image": "https://i.ibb.co/sbBjyf6/Rectangle-2-4.png",
         "Title": "Introduction to C++ for DSA",
-        "Details": "Master the basics of C++ programming and learn how to implement fundamental data structures and algorithms it will be distracted by the readable content",
+        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "Price": "10000",
         "Course_Credit": "10hr"
     },
@@ -27,7 +27,7 @@
         "ID": 4,
         "Image": "https://i.ibb.co/8BnBF9q/Rectangle-3.png",
         "Title": "Basic Data Structures",
-        "Details": "Learn the fundamental data structures used in computer science, including arrays, linked lists, stacks, queues, and basic algorithms for manipulating them.",
+        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "Price": "35000",
         "Course_Credit": "5hr"
     },
@@ -35,7 +35,7 @@
         "ID": 5,
         "Image": "https://i.ibb.co/QrBKxKJ/Rectangle-2.png",
         "Title": "Introduction to OOP Python",
-        "Details": "Learn the principles of object-oriented programming using Python. Understand classes, objects, inheritance, polymorphism, and how to apply them in practical programming projects.",
+        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "Price": "19000",
         "Course_Credit": "5hr"
     },
@@ -43,7 +43,7 @@
         "ID": 6,
         "Image": "https://i.ibb.co/WPQfw0N/Rectangle-2-5.png",
         "Title": "Software Engineering",
-        "Details": "Learn the principles and best practices of software engineering. Covering requirements analysis, design, coding, testing, and maintenance of software systems.",
+        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "Price": "23000",
         "Course_Credit": "2hr"
     },
@@ -51,7 +51,7 @@
         "ID": 7,
         "Image": "https://i.ibb.co/SxzwkMP/Rectangle-3-1.png",
         "Title": "AWS, Cloud Computing",
-        "Details": "Master the fundamentals of cloud computing and learn how to deploy, manage, and scale applications on Amazon Web Services (AWS) platform.",
+        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "Price": "35000",
         "Course_Credit": "5hr"
     },
@@ -59,7 +59,7 @@
         "ID": 8,
         "Image": "https://i.ibb.co/G7Tn8Qq/Rectangle-2-1.png",
         "Title": "Database (MySQL)",
-        "Details": "Learn the fundamentals of database management using MySQL. Covering topics from designing databases to writing complex queries and database administration.",
+        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "Price": "19000",
         "Course_Credit": "5hr"
     },
@@ -67,7 +67,7 @@
         "ID": 9,
         "Image": "https://i.ibb.co/5kLtZJb/Rectangle-2-6.png",
         "Title": "Problem-Solving Part",
-        "Details": "Enhance your problem-solving skills through a series of challenging exercises. Learn various techniques and strategies to approach complex problems.",
+        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         "Price": "23000",
         "Course_Credit": "2hr"
     }

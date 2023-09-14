@@ -1,9 +1,11 @@
+/* eslint-disable react/prop-types */
+/* eslint-disable react/no-unknown-property */
 
 const Card = ({ course }) => {
     const { Image, Title, Details, Price, Course_Credit } = course
     return (
-        <div>
-            <div className="card w-[312px] h-[402px] bg-base-100 shadow-xl">
+        <div className="mb-10">
+            <div className="card w-[312px] h-full bg-[#FFFFFF] rounded-xl shadow-xl">
                 <figure className="px-10 pt-10">
                     <img src={Image} alt="Shoes" className="rounded-xl" />
                 </figure>
@@ -24,7 +26,7 @@ const Card = ({ course }) => {
                         <p className=" text-base font-medium text-[#1C1B1B99]">Credit : {Course_Credit}</p>
                     </div>
                 </div>
-                <button className="w-full btn mt-7">Select</button>
+                <button className="pt-2 pb-2 pl-28 pr-28 mt-6 mb-3 ml-3 mr-3 bg-[#2F80ED] rounded-lg text-[#fff]">Select</button>
             </div>
         </div>
     );
