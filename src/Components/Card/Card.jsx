@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 /* eslint-disable react/no-unknown-property */
 
-const Card = ({ course }) => {
+const Card = ({ course, handleSelectCourse }) => {
     const { Image, Title, Details, Price, Course_Credit } = course
     return (
         <div className="mb-10">
@@ -26,7 +26,7 @@ const Card = ({ course }) => {
                         <p className=" text-base font-medium text-[#1C1B1B99]">Credit : {Course_Credit}</p>
                     </div>
                 </div>
-                <button className="pt-2 pb-2 pl-28 pr-28 mt-6 mb-3 ml-3 mr-3 bg-[#2F80ED] rounded-lg text-[#fff]">Select</button>
+                <button onClick={() => handleSelectCourse(course)} className="pt-2 pb-2 pl-28 pr-28 mt-6 mb-3 ml-3 mr-3 bg-[#2F80ED] rounded-lg text-[#fff]">Select</button>
             </div>
         </div>
     );
