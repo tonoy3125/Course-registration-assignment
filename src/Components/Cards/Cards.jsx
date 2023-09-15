@@ -86,11 +86,11 @@ const Cards = () => {
             </div>
             <div>
                 <div className="border w-[312px]  rounded-xl mx-auto shadow-lg pl-6">
-                    <h1 className="text-left mt-6 text-lg font-bold text-[#2F80ED]">Credit Hour Remaining {remainingCredit}</h1>
+                    <h1 className="text-left mt-6 text-lg font-bold text-[#2F80ED]">Credit Hour Remaining {remainingCredit} hr </h1>
                     <hr className="w-[264px]  border mt-4 bg-[#1C1B1B33]" />
                     <div>
                         <h3 className="text-left text-xl font-bold text-[#1C1B1B] mt-4">Course Name</h3>
-                        <div className="text-[#1C1B1B99] text-base">
+                        <div className="text-[#1C1B1B99] text-base mt-5 mb-6">
                             {
                                 selectedCourse.map(course => (
                                     <li className="list-decimal" key={course.id}> {course.Title} </li>
@@ -99,9 +99,9 @@ const Cards = () => {
                         </div>
                     </div>
                     <hr className="w-[264px]  border mt-4 bg-[#1C1B1B33]" />
-                    <p className=" text-base font-medium text-[#1C1B1BCC]">Total Credit Hour : {totalCredit}</p>
+                    <p className=" text-base font-medium text-[#1C1B1BCC] mb-4 mt-4">Total Credit Hour : {totalCredit}</p>
                     <hr className="w-[264px]  border mt-4 bg-[#1C1B1B33]" />
-                    <p className=" text-base font-semibold text-[#1C1B1BCC]">Total Price : {totalPrice} USD</p>
+                    <p className=" text-base font-semibold text-[#1C1B1BCC] mb-5 mt-4">Total Price : {totalPrice} USD</p>
                 </div>
             </div>
             <ToastContainer />
