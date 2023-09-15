@@ -2,7 +2,7 @@
 /* eslint-disable react/no-unknown-property */
 import { FaDollarSign } from 'react-icons/fa';
 import { BsBook } from 'react-icons/bs';
-const Card = ({ course, handleSelectCourse }) => {
+const Card = ({ course, handleSelectCourse  }) => {
     const { Image, Title, Details, Price, Course_Credit } = course
     return (
         <div className="mb-10">
