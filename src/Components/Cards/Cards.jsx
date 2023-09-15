@@ -18,8 +18,26 @@ const Cards = () => {
             .then(data => setAllCourses(data))
     }, [])
 
-    const notify = () => toast("Already Added this Course!");
-    const notice = () => toast("Your Credit Hour Is Finished!");
+    const notify = () => toast.warn('Already Added this Course!', {
+        position: "top-right",
+        autoClose: 5000,
+        hideProgressBar: false,
+        closeOnClick: true,
+        pauseOnHover: true,
+        draggable: true,
+        progress: undefined,
+        theme: "dark",
+    });
+    const notice = () => toast.warn('Your Credit Hour Is Finished!', {
+        position: "top-right",
+        autoClose: 5000,
+        hideProgressBar: false,
+        closeOnClick: true,
+        pauseOnHover: true,
+        draggable: true,
+        progress: undefined,
+        theme: "dark",
+        });
 
 
     const handleSelectCourse = (course) => {
