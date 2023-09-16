@@ -19,7 +19,7 @@ const Card = ({ course, handleSelectCourse  }) => {
                     </div>
                     <div className="flex gap-3 items-center">
                         <p><BsBook></BsBook></p>
-                        <p className=" text-base font-medium text-[#1C1B1B99]">Credit : {Course_Credit}</p>
+                        <p className=" text-base font-medium text-[#1C1B1B99]">Credit : {Course_Credit}hr</p>
                     </div>
                 </div>
                 <button onClick={() => handleSelectCourse(course)} className="pt-2 pb-2 pl-28 pr-28 mt-6 mb-3 ml-3 mr-3 bg-[#2F80ED] rounded-lg text-[#fff]">Select</button>
