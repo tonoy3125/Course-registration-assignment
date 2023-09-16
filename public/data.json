@@ -3,7 +3,7 @@
         "ID": 1,
         "Image": "https://i.ibb.co/mC9kt3y/Rectangle-2-2.png",
         "Title": "Introduction to C Programming",
-        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "Details": "Learn the basics of C programming language, including syntax, data types, control structures, and functions. Develop foundational skills for software development.",
         "Price": 15000,
         "Course_Credit": 1
     },
@@ -11,7 +11,7 @@
         "ID": 2,
         "Image": "https://i.ibb.co/Z6z66Jz/Rectangle-2-3.png",
         "Title": "Introduction to Algorithms",
-        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "Details": "Explore fundamental algorithm design techniques and analysis. Cover sorting, searching, dynamic programming, and graph algorithms.",
         "Price": 25000,
         "Course_Credit": 2
     },
@@ -19,7 +19,7 @@
         "ID": 3,
         "Image": "https://i.ibb.co/sbBjyf6/Rectangle-2-4.png",
         "Title": "Introduction to C++ for DSA",
-        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "Details": "Learn C++ programming with a focus on Data Structures and Algorithms. Cover OOP, arrays, linked lists, trees, sorting, and searching algorithms.",
         "Price": 10000,
         "Course_Credit": 10
     },
@@ -27,7 +27,7 @@
         "ID": 4,
         "Image": "https://i.ibb.co/8BnBF9q/Rectangle-3.png",
         "Title": "Basic Data Structures",
-        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "Details": "Explore foundational data structures like arrays, linked lists, stacks, queues, basic algorithms. Learn implementation and usage in programming.",
         "Price": 35000,
         "Course_Credit": 5
     },
@@ -35,7 +35,7 @@
         "ID": 5,
         "Image": "https://i.ibb.co/QrBKxKJ/Rectangle-2.png",
         "Title": "Introduction to OOP Python",
-        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "Details": "Learn object-oriented programming concepts in Python. Cover classes, inheritance, polymorphism, encapsulation, and apply them in practical programming projects..",
         "Price": 19000,
         "Course_Credit": 5
     },
@@ -43,7 +43,7 @@
         "ID": 6,
         "Image": "https://i.ibb.co/WPQfw0N/Rectangle-2-5.png",
         "Title": "Software Engineering",
-        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "Details": "This course covers principles, methodologies, and best practices in software development, including requirements analysis, design, testing, and project management.",
         "Price": 23000,
         "Course_Credit": 2
     },
@@ -51,7 +51,7 @@
         "ID": 7,
         "Image": "https://i.ibb.co/SxzwkMP/Rectangle-3-1.png",
         "Title": "AWS, Cloud Computing",
-        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "Details": "Explore AWS services, infrastructure, and cloud architecture. Learn to deploy, manage, and optimize applications on the AWS platform.",
         "Price": 35000,
         "Course_Credit": 5
     },
@@ -59,7 +59,7 @@
         "ID": 8,
         "Image": "https://i.ibb.co/G7Tn8Qq/Rectangle-2-1.png",
         "Title": "Database (MySQL)",
-        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "Details": "Learn MySQL database fundamentals, including querying, data manipulation, and database design. Gain practical experience in managing and optimizing MySQL databases.",
         "Price": 19000,
         "Course_Credit": 5
     },
@@ -67,7 +67,7 @@
         "ID": 9,
         "Image": "https://i.ibb.co/5kLtZJb/Rectangle-2-6.png",
         "Title": "Problem-Solving Part",
-        "Details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "Details": "Master problem-solving techniques, algorithms, and data structures. Apply critical thinking to tackle coding challenges and optimize solutions.",
         "Price": 23000,
         "Course_Credit": 2
     }

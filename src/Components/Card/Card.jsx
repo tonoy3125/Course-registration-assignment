@@ -7,7 +7,7 @@ const Card = ({ course, handleSelectCourse  }) => {
     return (
         <div className="mb-10">
             <div className="card w-[312px] h-full bg-[#FFFFFF] rounded-xl shadow-xl">
-                <figure className="px-10 pt-10">
+                <figure className="px-5 pt-5">
                     <img src={Image} alt="Shoes" className="rounded-xl" />
                 </figure>
                 <h1 className=" text-lg font-semibold text-[#1C1B1B] text-center mt-4">{Title}</h1>
