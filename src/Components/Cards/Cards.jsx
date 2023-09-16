@@ -85,7 +85,7 @@ const Cards = () => {
                 }
             </div>
             <div>
-                <div className="border w-[312px]  rounded-xl mx-auto shadow-lg pl-6">
+                <div className="border w-[312px]  rounded-xl mx-auto shadow-lg pl-6 mb-5">
                     <h1 className="text-left mt-6 text-lg font-bold text-[#2F80ED]">Credit Hour Remaining {remainingCredit} hr </h1>
                     <hr className="w-[264px]  border mt-4 bg-[#1C1B1B33]" />
                     <div>
